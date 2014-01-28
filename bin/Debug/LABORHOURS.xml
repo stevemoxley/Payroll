@@ -1,0 +1,252 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LABORHOURS
+</name>
+</assembly>
+<members>
+<member name="T:LABORHOURS.LABORHOURSDataSet.COMPANIESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.LABORHOURSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.PROPERTIESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.WORKERSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.MILEAGEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.SALARIEDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.COMMISSIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.OLDCOMPANYDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.OLDEMPLOYEEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.OLDPROPERTIESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.WORKTYPESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.JOBSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.COMPANIESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.LABORHOURSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.PROPERTIESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.WORKERSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.MILEAGERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.SALARIEDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.COMMISSIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.OLDCOMPANYRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.OLDEMPLOYEERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.OLDPROPERTIESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.WORKTYPESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.JOBSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.COMPANIESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.LABORHOURSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.PROPERTIESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.WORKERSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.MILEAGERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.SALARIEDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.COMMISSIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.OLDCOMPANYRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.OLDEMPLOYEERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.OLDPROPERTIESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.WORKTYPESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet.JOBSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSetTableAdapters.COMPANIESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSetTableAdapters.LABORHOURSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSetTableAdapters.PROPERTIESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSetTableAdapters.WORKERSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSetTableAdapters.MILEAGETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSetTableAdapters.SALARIEDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSetTableAdapters.COMMISSIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSetTableAdapters.OLDCOMPANYTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSetTableAdapters.OLDEMPLOYEETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSetTableAdapters.OLDPROPERTIESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSetTableAdapters.WORKTYPESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSetTableAdapters.JOBSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LABORHOURS.LABORHOURSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(LABORHOURS.LABORHOURSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LABORHOURS.LABORHOURSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(LABORHOURS.LABORHOURSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LABORHOURS.LABORHOURSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(LABORHOURS.LABORHOURSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LABORHOURS.LABORHOURSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LABORHOURS.LABORHOURSDataSetTableAdapters.TableAdapterManager.UpdateAll(LABORHOURS.LABORHOURSDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LABORHOURS.LABORHOURSDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:LABORHOURS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LABORHOURS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:LABORHOURS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

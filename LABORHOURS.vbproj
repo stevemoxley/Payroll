@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{25E22DE2-75C7-460D-BC38-9D2A45C73D10}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>LABORHOURS.My.MyApplication</StartupObject>
+    <RootNamespace>LABORHOURS</RootNamespace>
+    <AssemblyName>LABORHOURS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LABORHOURS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LABORHOURS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.CRVIEWER9Lib, Version=9.2.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.CRVIEWER9Lib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.XQVIEWERLib, Version=9.2.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.XQVIEWERLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Access, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="RdlEngine">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\fyiReporting RDL Project 4.1\RdlEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="RdlViewer">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\fyiReporting RDL Project 4.1\RdlViewer.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WPFVisifire.Charts">
+      <HintPath>..\..\..\..\..\Desktop\CodeReason.Reports.Charts.Visifire\lib\WPFVisifire.Charts.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="fyiReporting" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddRemoveCompany.Designer.vb">
+      <DependentUpon>AddRemoveCompany.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddRemoveCompany.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewSalariedWorker.Designer.vb">
+      <DependentUpon>AddNewSalariedWorker.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewSalariedWorker.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddRemoveProperty.Designer.vb">
+      <DependentUpon>AddRemoveProperty.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddRemoveProperty.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSalariedHours.Designer.vb">
+      <DependentUpon>AddSalariedHours.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddSalariedHours.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommissionEdit.Designer.vb">
+      <DependentUpon>CommissionEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CommissionEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommissionFilter.Designer.vb">
+      <DependentUpon>CommissionFilter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CommissionFilter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee.vb" />
+    <Compile Include="MilesFilter.Designer.vb">
+      <DependentUpon>MilesFilter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MilesFilter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatabaseFunctions.vb" />
+    <Compile Include="EditMiles.Designer.vb">
+      <DependentUpon>EditMiles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditMiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBEdit.Designer.vb">
+      <DependentUpon>DBEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DBEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditLaborHours.Designer.vb">
+      <DependentUpon>EditLaborHours.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditLaborHours.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterCommission.Designer.vb">
+      <DependentUpon>EnterCommission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EnterCommission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterLaborHours.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterLaborHours.Designer.vb">
+      <DependentUpon>EnterLaborHours.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterMiles.Designer.vb">
+      <DependentUpon>EnterMiles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EnterMiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LABORHOURSDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LABORHOURSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LABORHOURSDataSet.vb">
+      <DependentUpon>LABORHOURSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LaborHoursFilter.Designer.vb">
+      <DependentUpon>LaborHoursFilter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaborHoursFilter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MilesEdit.Designer.vb">
+      <DependentUpon>MilesEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MilesEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ReportFunctions.vb" />
+    <Compile Include="Reporting.Designer.vb">
+      <DependentUpon>Reporting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditCommission.Designer.vb">
+      <DependentUpon>EditCommission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditCommission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddRemoveCompany.resx">
+      <DependentUpon>AddRemoveCompany.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewSalariedWorker.resx">
+      <DependentUpon>AddNewSalariedWorker.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddRemoveProperty.resx">
+      <DependentUpon>AddRemoveProperty.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSalariedHours.resx">
+      <DependentUpon>AddSalariedHours.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommissionEdit.resx">
+      <DependentUpon>CommissionEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommissionFilter.resx">
+      <DependentUpon>CommissionFilter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MilesFilter.resx">
+      <DependentUpon>MilesFilter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditMiles.resx">
+      <DependentUpon>EditMiles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBEdit.resx">
+      <DependentUpon>DBEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditLaborHours.resx">
+      <DependentUpon>EditLaborHours.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterCommission.resx">
+      <DependentUpon>EnterCommission.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterLaborHours.resx">
+      <DependentUpon>EnterLaborHours.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterMiles.resx">
+      <DependentUpon>EnterMiles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaborHoursFilter.resx">
+      <DependentUpon>LaborHoursFilter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MilesEdit.resx">
+      <DependentUpon>MilesEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporting.resx">
+      <DependentUpon>Reporting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditCommission.resx">
+      <DependentUpon>EditCommission.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="LABORHOURSDataSet.xsc">
+      <DependentUpon>LABORHOURSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LABORHOURSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LABORHOURSDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LABORHOURSDataSet.xss">
+      <DependentUpon>LABORHOURSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LABORHOURS.accdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{00000205-0000-0010-8000-00AA006D2EA4}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="DAO">
+      <Guid>{00025E01-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Access1">
+      <Guid>{4AFFC9A0-5F99-101B-AF4E-00AA003F0F07}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

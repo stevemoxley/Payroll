@@ -1,0 +1,75 @@
+C:\Users\Steve\AppData\Local\Temporary Projects\LABORHOURS\bin\Debug\LABORHOURS.accdb
+C:\Users\Steve\AppData\Local\Temporary Projects\LABORHOURS\bin\Debug\LABORHOURS.exe.config
+C:\Users\Steve\AppData\Local\Temporary Projects\LABORHOURS\bin\Debug\LABORHOURS.exe
+C:\Users\Steve\AppData\Local\Temporary Projects\LABORHOURS\bin\Debug\LABORHOURS.pdb
+C:\Users\Steve\AppData\Local\Temporary Projects\LABORHOURS\bin\Debug\LABORHOURS.xml
+C:\Users\Steve\AppData\Local\Temporary Projects\LABORHOURS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\AppData\Local\Temporary Projects\LABORHOURS\obj\x86\Debug\LABORHOURS.Form1.resources
+C:\Users\Steve\AppData\Local\Temporary Projects\LABORHOURS\obj\x86\Debug\LABORHOURS.Resources.resources
+C:\Users\Steve\AppData\Local\Temporary Projects\LABORHOURS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Steve\AppData\Local\Temporary Projects\LABORHOURS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Steve\AppData\Local\Temporary Projects\LABORHOURS\obj\x86\Debug\LABORHOURS.exe
+C:\Users\Steve\AppData\Local\Temporary Projects\LABORHOURS\obj\x86\Debug\LABORHOURS.xml
+C:\Users\Steve\AppData\Local\Temporary Projects\LABORHOURS\obj\x86\Debug\LABORHOURS.pdb
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\bin\Debug\LABORHOURS.exe.config
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.exe
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.xml
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.pdb
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\bin\Debug\LABORHOURS.exe
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\bin\Debug\LABORHOURS.pdb
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\bin\Debug\LABORHOURS.xml
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.Resources.resources
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\bin\Debug\RdlEngine.dll
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\bin\Debug\RdlViewer.DLL
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.Reporting.resources
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\Interop.CRVIEWER9Lib.dll
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\Interop.XQVIEWERLib.dll
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\AxInterop.CRVIEWER9Lib.dll
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\AxInterop.XQVIEWERLib.dll
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.vbproj.ResolveComReference.cache
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\bin\Debug\WPFVisifire.Charts.dll
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\bin\Debug\Interop.CRVIEWER9Lib.dll
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\bin\Debug\Interop.XQVIEWERLib.dll
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\bin\Debug\AxInterop.CRVIEWER9Lib.dll
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\bin\Debug\AxInterop.XQVIEWERLib.dll
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.DBEdit.resources
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.AddProperty.resources
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.AddCompany.resources
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\bin\Debug\LABORHOURS.accdb
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.EditLaborHours.resources
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.MainForm.resources
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.EnterLaborHours.resources
+C:\Users\Steve\documents\visual studio 2010\Projects\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.EnterMiles.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\bin\Debug\LABORHOURS.exe.config
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.vbproj.ResolveComReference.cache
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.exe
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.xml
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.pdb
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.DBEdit.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.EditLaborHours.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.EnterLaborHours.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.EnterMiles.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.MainForm.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.Resources.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.Reporting.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\bin\Debug\LABORHOURS.exe
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\bin\Debug\LABORHOURS.pdb
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\bin\Debug\LABORHOURS.xml
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.MilesEdit.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.LaborHoursFilter.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\bin\Debug\LABORHOURS.accdb
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.AddSalariedHours.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.AddNewSalariedWorker.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.AddRemoveCompany.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.AddRemoveProperty.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.EditMiles.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.EnterCommission.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.EditCommission.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.CommissionEdit.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.MilesFilter.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.CommissionFilter.resources
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.vbprojResolveAssemblyReference.cache
+C:\Users\smoxley\Desktop\LABORHOURS\LABORHOURS\obj\x86\Debug\LABORHOURS.vbproj.GenerateResource.Cache
